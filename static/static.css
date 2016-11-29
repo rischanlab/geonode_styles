@@ -21,10 +21,8 @@ a:focus {
     background-image: url(../img/logo-inverted.png);
 	background-position: 15px 2px;
 	background-repeat: no-repeat;
-	background-size: 100px 39px;
     height: 40px;
     margin-right: 25px;
-    margin-top: 6px;
     text-indent: -9999em;
     width: 141px
 }
